@@ -8,6 +8,4 @@
 
 -> Sql database tables are located in database folder of project
 
--> Note : This project is on progress for completion.
-
 -> Password of RAR is My 10 digit mobile number. Hint 96*******8
